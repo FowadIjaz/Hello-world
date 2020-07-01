@@ -1,8 +1,5 @@
 # Hello-world
-THis is baby's first repository
+Hello this repository is a website now
 
-
-MOthaercaslkdashjl
-asdnasdnlakjda
-asokjadljkasd
+As you can see, it is a pretty cool website. Do you like it so far?
 
